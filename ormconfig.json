@@ -1,6 +1,6 @@
 {
-  "username": "postgres",
-  "password": "docker",
+  "username": "docker",
+  "password": "ignite",
 
   "type": "postgres",
   "name": "default",
